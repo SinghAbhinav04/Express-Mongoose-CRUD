@@ -19,7 +19,7 @@ This is a Node.js project that implements a User Management API using Express.js
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/user-management-api.git
+   git clone https://github.com/SinghAbhinav04/Express-Mongoose-CRUD.git
    cd user-management-api
    
 2. **Install dependencies**
