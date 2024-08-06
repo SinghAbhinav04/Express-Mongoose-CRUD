@@ -1,0 +1,8 @@
+
+1722950589611:::1 POST:/api/users
+
+1722950611854:::1 POST:/api/users
+
+1722950624649:::1 GET:/api/users/66b1ff0cee41aa7324e65b4f
+
+1722950630582:::1 GET:/api/users
