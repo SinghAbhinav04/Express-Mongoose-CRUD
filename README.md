@@ -1,4 +1,4 @@
-# User Management API
+# Express-Mongoose-CRUD
 
 This is a Node.js project that implements a User Management API using Express.js and MongoDB. The API supports CRUD operations for user data and logs all requests and responses.
 
